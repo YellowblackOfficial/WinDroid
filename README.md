@@ -6,5 +6,5 @@ To run WinDroid, you need a tablet with a keyboard and mouse, 12 GB of RAM, at l
 There are no screenshots yet to demonstrate the application. 
 # Joke Tour
 <a href="https://logonoff.co/projects/windowsxptour/mmTour/2419.html">
-  ▶ INICIAR WINDOWS WHILISTER TOUR
+  ▶ Play Tour
 </a>
