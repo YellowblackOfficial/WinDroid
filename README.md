@@ -1,5 +1,5 @@
 # WinDroid
-WinDroid is an application for Android tablets that runs Windows 10 using Java 6 and RAM emulation.
+WinDroid is an application for Android tablets that runs Windows using Java 6 and RAM emulation.
 # Requirements
 To run WinDroid, you need a tablet with a keyboard and mouse, 8 GB of RAM, at least 250 GB of free space, and Android 5.0 or higher.
 # Screenshots
