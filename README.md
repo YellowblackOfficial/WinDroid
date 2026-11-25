@@ -32,7 +32,7 @@ The project aims to bring the desktop Windows experience to Android tablets and 
 
 ## Screenshots
 
-Screenshots will be added in a future update.
+![Screenshot](Screenshots/1.png)
 
 ## Project Status
 
